@@ -7,6 +7,7 @@ System hardware and OS:
  
 
 
+Anaconda version: Anaconda2 5.0.0 64-bit
 
 Python version: Python 3.5.4
 
@@ -19,16 +20,25 @@ Packages requirement
 Dataset
 
 Problem 1: Bank Marketing Data Set (bank.csv)
-
 Original URL: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 my GitHub repository: https://github.com/LUSAQX/Assignment1/tree/master/Data
+training dataset: https://github.com/LUSAQX/Assignment1/blob/master/Data/train_test_split/trainset_p1.csv
+test dataset: https://github.com/LUSAQX/Assignment1/blob/master/Data/train_test_split/testset_p1.csv
+training feature set after resampling: https://github.com/LUSAQX/Assignment1/blob/master/Data/train_test_split/X_train_smote_p1.csv
+training target class after resampling: https://github.com/LUSAQX/Assignment1/blob/master/Data/train_test_split/y_train_smote_p1.csv
 
-Problem 2: 
+Problem 2: Large Movie Review Dataset ()
+Original URL: http://ai.stanford.edu/~amaas/data/sentiment/
+training dataset: https://github.com/LUSAQX/Assignment1/blob/master/Data/train_test_split/trainset_p2.csv
+test dataset: https://github.com/LUSAQX/Assignment1/blob/master/Data/train_test_split/testset_p2.csv
 
 
 Code
 
+Problem 1:
 
+
+Problem 2:
 
 
 
