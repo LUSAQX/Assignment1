@@ -16,7 +16,15 @@ Python version: Python 3.5.4
 
 Packages requirement
 
-
+numpy == 1.15.4
+pandas == 0.20.3
+matplotlib == 2.1.0
+csv == 1.0
+os
+time
+sklearn == 0.20.2
+pickle
+imblearn == 0.4.3
 
 
 
